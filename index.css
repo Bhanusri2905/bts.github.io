@@ -1,0 +1,13 @@
+.nav-link:hover
+{
+    text-decoration: underline;
+    text-decoration-color: plum;
+    transform: scale(1.2);
+}
+.navbar-brand:hover
+{
+    color: plum;
+    font-style: italic;
+    transform: scale(1.2);
+    
+}
